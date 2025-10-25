@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* Global Styles & Theme  */
+=======
+/* --- Global Styles & Theme --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 :root {
     --bg-color: #1a1a1a;
     --surface-color: #2c2c2c;
@@ -27,7 +31,11 @@ body {
     padding: 0 20px;
 }
 
+<<<<<<< HEAD
 /*Header & Navigation  */
+=======
+/* --- Header & Navigation --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 header {
     background-color: rgba(44, 44, 44, 0.8);
     backdrop-filter: blur(10px);
@@ -78,7 +86,11 @@ nav {
     border-bottom: 2px solid var(--primary-color);
 }
 
+<<<<<<< HEAD
 /* Main Content & Page Transitions */
+=======
+/* --- Main Content & Page Transitions --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 main {
     padding: 40px 0;
 }
@@ -112,13 +124,18 @@ h2 {
 }
 
 
+<<<<<<< HEAD
 /* Home Page Specific Styles */
+=======
+/* --- Home Page Specific Styles --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 .hero {
     text-align: center;
     padding: 60px 20px;
 }
 
 .hero .profile-pic {
+<<<<<<< HEAD
     width: 180px;
     height: 180px;
     border: 4px solid var(--primary-color);
@@ -158,6 +175,22 @@ h2 {
 
 
 
+=======
+    width: 150px;
+    height: 150px;
+    background-color: var(--surface-color);
+    border: 4px solid var(--primary-color);
+    border-radius: 50%;
+    margin: 0 auto 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4em;
+    font-family: 'Poppins', sans-serif;
+    color: var(--primary-color);
+}
+
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 .hero h1 {
     font-size: 3em;
     margin-bottom: 5px;
@@ -218,7 +251,11 @@ h2 {
     color: var(--primary-color);
 }
 
+<<<<<<< HEAD
 /*About Page Specific Styles*/
+=======
+/* --- About Page Specific Styles --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 .about-text {
     font-size: 1.1em;
     line-height: 1.8;
@@ -258,7 +295,11 @@ h2 {
     display: block;
 }
 
+<<<<<<< HEAD
 /* Footer */
+=======
+/* --- Footer --- */
+>>>>>>> d59f038cbb32adef7dd622d5e0bf5ca933af7a1d
 footer {
     text-align: center;
     padding: 20px 0;
