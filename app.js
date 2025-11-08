@@ -1,7 +1,7 @@
-// Create the Angular module
+
 var app = angular.module('portfolioApp', ['ngRoute']);
 
-// Configure routes
+
 app.config(function($routeProvider) {
   $routeProvider
     .when('/', {
